@@ -155,7 +155,7 @@ XIII) entre o tipo de postagem, fotos e reels tiveram desempenho superior
     </tr>
 </table>
 
-XIV) utilização das funções split e explode para tratar a coluna de Tags
+XIV) utilização das funções split e explode para tratar a coluna de Tags<br/>
 XV) tags que envolvam "Promoções", "Datas Comemorativas" e "Trends" são as de melhor desempenho
 
 <table border="1">
@@ -191,8 +191,7 @@ XVI) ao fazer o agrupamento das colunas de Pessoas/Tags e Campanhas/Tags, observ
 - postagens que agregam pessoas e campanhas tem em média 19.4 mil curtidas
 - carrossel não foi um diferencial para melhorar o engajamento da marca
 - a média de curtidas sem carrossel é maior do que com. Portanto, sugere-se focar em outros tipos de publicação que gerem melhor engajamento
-- sugere-se postar apenas vídeos que agreguem pessoas e campanhas que tiveram 
-- desempenho próximo ao das fotos, uma vez que os não apresentaram ambos não tiveram um bom desempenho 
+- sugere-se postar apenas vídeos que agreguem pessoas e campanhas, pois apesar de poucos,tiveram desempenho próximo ao das fotos. Os que não apresentaram ambos não tiveram um bom desempenho 
 - IGTV mesmo com pessoas não agradou 
 - em todas as tags, quando há pessoas envolvidas o desempenho foi muito melhor
 - campanhas ajudam na divulgação da marca
